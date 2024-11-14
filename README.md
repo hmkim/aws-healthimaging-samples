@@ -1,5 +1,6 @@
 # AWS HealthImaging Samples
 
+
 This monorepo provides examples on working with the [AWS HealthImaging](https://aws.amazon.com/healthimaging) service.
 
 AWS HealthImaging is a new HIPAA-eligible capability that enables healthcare providers and their software partners to easily store, access, and analyze medical images at petabyte scale.
